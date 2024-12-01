@@ -12,7 +12,7 @@ Python-Powered: Built using Python for both the backend and video detection.
 ## Technologies Used
 Programming Language: Python
 Video Detection Library: OpenCV
-Web Framework: Flask/Django (Choose based on your preference)
-Database: SQLite/PostgreSQL (or any other you choose)
-Frontend: HTML, CSS, JavaScript (with frameworks like React or Angular, if applicable)
-Deployment: Docker/Heroku/AWS (depending on your choice)
+Web Framework: Flask/Django
+Database: PostgreSQL
+Frontend: HTML, CSS, JavaScript (Angular)
+Deployment: Docker/Heroku
